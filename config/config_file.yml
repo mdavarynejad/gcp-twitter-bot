@@ -1,0 +1,40 @@
+old_if_hours_passed: 48
+
+itnext:
+    feed_name: "ITNEXT"
+    url: "https://itnext.io/feed"
+
+telegram:
+    telegram_time_delta_hours: 12
+    idle_time_when_posted: 2800
+
+twitter:
+    twitter_time_delta_hours: 12
+
+db:
+    path: "sqlite:///Author_Post_Medium.db"
+
+other:
+    sleep_time_when_not_connected: 20
+
+
+feed_url_list:
+- 'https://itnext.io/feed'
+- 'https://towardsdatascience.com/feed'
+- 'https://itnext.io/feed'
+- 'https://hackernoon.com/feed'
+- 'https://proandroiddev.com/feed'
+- 'https://engineering.instagram.com/feed'
+- 'https://codeburst.io/feed'
+- 'https://medium.freecodecamp.org/feed'
+- 'https://machinelearnings.co/feed'
+- 'https://startupsventurecapital.com/feed'
+- 'https://becominghuman.ai/feed'
+- 'https://medium.com/feed/@ageitgey'
+- 'https://medium.com/feed/@mrogati'
+- 'https://medium.com/feed/london-ai'
+- 'https://chatbotnewsdaily.com/rss'
+- 'https://medium.com/feed/@ibmcognitivebusiness'
+- 'https://medium.com/feed/airbnb-engineering'
+- 'https://medium.com/feed/@NYUDataScience'
+- 'https://medium.com/feed/actionable-data'

@@ -1,0 +1,5 @@
+google-cloud-pubsub
+google-cloud-logging
+pyyaml
+sqlalchemy
+feedparser 
